@@ -22,6 +22,3 @@ function getJoke() {
     });
     xhr.send();
 }
-
-// Listening for a response from the server
-var response = JSON.parse(xhr.response);
