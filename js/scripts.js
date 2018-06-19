@@ -1,7 +1,7 @@
 'use strict';
 
 // Create variable "url" containing the address to our joke
-var url = 'http://api.icndb.com/jokes/random';
+var url = 'https://api.icndb.com/jokes/random';
 
 // Listening to the button with a random joke
 var button = document.getElementById('get-joke');
